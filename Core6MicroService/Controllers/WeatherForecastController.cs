@@ -7,6 +7,7 @@ namespace Core6MicroService.Controllers
     public class WeatherForecastController : ControllerBase
     {
         //Created Application using dot net 6
+        //Surendra 
         private static readonly string[] Summaries = new[]
         {
         "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
